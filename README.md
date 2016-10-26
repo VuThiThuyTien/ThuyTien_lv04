@@ -9,6 +9,7 @@
 Tức là: mảng 1 chiều A gồm 10 phần tử kiểu số nguyên  
 `float B[2] [3];`  
 Tức là: Mảng 2 chiều B gồm 2 hàng và 3 cột, các phần tử có kiểu số thực  
+
 ###### 1.2.Mảng 1 chiều  
 - Cú pháp: `kiểu_dữ_liệu tên_mảng[số_phần_tử_của_mảng];`  
 - Ví dụ:   
